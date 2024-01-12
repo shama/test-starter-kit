@@ -1,7 +1,7 @@
 import * as path from "path";
 import { VueLoaderPlugin } from "vue-loader";
 import { fileURLToPath } from "url";
-import * as webpack from "webpack";
+import webpack from "webpack";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
