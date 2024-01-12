@@ -1,4 +1,4 @@
-# YNAB API Starter Kit
+# YNAB API Starter Kit 2
 
 Do you want to build a web app with the [YNAB API](https://api.ynab.com/), but are not sure how to get started?
 
